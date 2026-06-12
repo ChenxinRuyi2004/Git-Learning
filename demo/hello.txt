@@ -1,0 +1,11 @@
+你好，Git。
+
+这是一个练习文件。
+
+你可以修改这一行，然后运行：
+
+git status
+git diff
+git add demo/hello.txt
+git commit -m "练习：修改 hello 文件"
+
